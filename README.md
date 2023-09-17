@@ -18,8 +18,11 @@ The transition to electric vehicles plays a pivotal role in reducing greenhouse 
 ## Table of Contents
 #### 1. Data Exploration and Descriptive Statistics
 - Data Cleaning
-#### 2. Statistical Inference
-- Analysis of Variance (ANOVA)
+#### 2. Statistical Analysis and Inference
+- Hypothesis tests
+-- One-sample and two-sample t-tests
+-- Analysis of Variance (ANOVA)
+-- Cluster Analysis. Kmeans
 #### 3. Exploratory Data Analysis
 - Univariate, Bivariate Analysis
 #### 4. Modeling
